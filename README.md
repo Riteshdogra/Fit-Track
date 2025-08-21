@@ -25,7 +25,9 @@ Message Broker: RabbitMQ
 
 
 📂 Project Structure
+
 fittrack/
+
 │── user-service/             # Handles user registration & profiles  
 │── Activity-service/         # Manages workout data & tracking  
 │── recommendation-service/   # AI-driven recommendation engine  
