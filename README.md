@@ -10,7 +10,7 @@ FitTrack is an AI-powered Spring Boot microservices-based fitness application th
 ✅ AI-driven recommendation engine for workouts & diet plans
 ✅ Personalized nutrition suggestions based on performance
 ✅ RESTful microservices architecture (scalable & modular)
-✅ MySQL database integration for persistent storage
+✅ Postgrsql database integration for persistent storage
 
 
 🏗️ Tech Stack
