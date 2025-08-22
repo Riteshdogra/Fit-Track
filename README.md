@@ -1,4 +1,4 @@
-🏋️‍♂️ FitTrack – AI-Powered Personalized Fitness Recommendation System
+🏋️‍♂️ FitTrack – AI-Powered Personalized Fitness Recommendation System (Back-end)
 
 📌 Overview
 FitTrack is an AI-powered Spring Boot microservices-based fitness application that delivers personalized workout and nutrition recommendations based on user performance data.
